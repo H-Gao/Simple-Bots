@@ -1,0 +1,16 @@
+Important Note:
+
+DON'T ABUSE THE POWER.
+For test purposes only.
+The creater of the program does not condone the use of the program on any computers, other than the ones that belongs to the person who posesses the program.
+I AM NOT RESPONSIBLE FOR ANY DAMAGES.
+
+=================================================================
+
+To use the program run start.bat, after modifying the input.txt file.
+
+The first input is the amount of times the tabs will run.
+Values of over 200 will be laggy, values over 2,000 will likely crash the browser. Anything over is overkill.
+
+The second input is the website it will be directed to.
+Do not type in the protocol: Ex. Type in www.google.com or www.cats.com.

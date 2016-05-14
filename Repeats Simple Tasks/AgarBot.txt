@@ -1,0 +1,1705 @@
+wait 3000
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0
+move 680 380
+click 0
+move 650 250
+click 0

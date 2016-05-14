@@ -1,0 +1,337 @@
+wait 3000
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0
+move 350 120
+click 0
+move 400 220
+click 0

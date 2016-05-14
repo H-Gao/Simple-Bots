@@ -1,0 +1,15 @@
+move 1215 750
+click 1
+move 1130 605
+click 1
+move 1280 730
+click 1
+move 1080 220
+sleep 5000
+click 1
+type usernamehere
+move 1080 275
+click 1
+type passwordhere
+move 1175 340
+click 1
